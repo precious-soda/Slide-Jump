@@ -1,0 +1,16 @@
+.character {
+  background-color: black;
+  height: 70px;
+  width: 40px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.character-slide {
+  background-color: black;
+  height: 40px;
+  width: 70px;
+  position: absolute;
+  bottom: 0;
+}
